@@ -1,0 +1,1 @@
+Repositorio de práctica del curso Lenguajes de Programación (UPN 2026-2).
